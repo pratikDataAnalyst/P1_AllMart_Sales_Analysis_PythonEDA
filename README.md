@@ -31,8 +31,8 @@ The goal of this project is to analyze retail sales data to identify the most pr
 1. Clone this repository.
 2. Ensure you have Python and Jupyter Notebook installed.
 3. Install dependencies: `pip install pandas matplotlib seaborn`
-4. Open `P1_DAP.ipynb` and run all cells.
+4. Open `AllMart_Sales_Analysis.ipynb` and run all cells.
 
 ## 📂 Project Structure
-* `P1_DAP.ipynb`: The main analysis notebook containing code and visualizations.
-* `Diwali Sales Data.csv`: The raw dataset used for analysis.
+* `AllMart_Sales_Analysis.ipynb`: The main analysis notebook containing code and visualizations.
+* `Sales Data.csv`: The raw dataset used for analysis.
