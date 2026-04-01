@@ -10,9 +10,17 @@ The goal of this project is to analyze retail sales data to identify the most pr
 
 ## 📊 Key Insights from Analysis
 * **Top Customer Segment:** Married women in the **26-35 age group** are the highest contributors to sales.
+  <img width="492" height="343" alt="image" src="https://github.com/user-attachments/assets/87d77850-2fc5-4c62-a280-6cfb1450e566" />
+
 * **Regional Performance:** **Uttar Pradesh, Maharashtra, and Karnataka** are the top three states by order volume and revenue.
+  <img width="1265" height="402" alt="image" src="https://github.com/user-attachments/assets/cf08ae5c-38e8-4d41-b312-43f802f6b798" />
+
 * **Industry Insights:** Customers working in the **IT, Healthcare, and Aviation** sectors show the highest purchasing power.
+  <img width="1256" height="376" alt="image" src="https://github.com/user-attachments/assets/3af2be80-a0b3-4e79-a8f1-e0ff60e2bdb1" />
+
 * **Product Demand:** The **Food, Clothing, and Electronics** categories account for the majority of the transactions.
+  <img width="1256" height="362" alt="image" src="https://github.com/user-attachments/assets/a7f39e67-51a9-4660-b793-deb289ed770f" />
+
 
 ## 🚀 How to Run this Project
 1. Clone this repository.
