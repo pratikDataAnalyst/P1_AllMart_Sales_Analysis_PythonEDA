@@ -4,10 +4,15 @@ An Exploratory Data Analysis (EDA) project using Python to uncover consumer purc
 ## 📌 Project Objective
 The goal of this project is to analyze retail sales data to identify the most profitable customer segments and product categories. This helps the business optimize inventory and target the right audience for marketing campaigns.
 
-## 🛠️ Tech Stack
-* **Language:** Python
-* **Libraries:** Pandas (Data Manipulation), Matplotlib & Seaborn (Data Visualization), NumPy
-
+## 🛠️ Tech Stack & Dependencies
+* **Language:** Python 
+* **Libraries used:**
+  * **Pandas:** Data manipulation and cleaning
+  * **NumPy:** Numerical computations
+  * **Matplotlib:** Basic data visualization
+  * **Seaborn:** Advanced statistical visualizations
+* **Environment:** Jupyter Notebook
+  
 ## 📊 Key Insights from Analysis
 * **Top Customer Segment:** Married women in the **26-35 age group** are the highest contributors to sales.
   <img width="492" height="343" alt="image" src="https://github.com/user-attachments/assets/87d77850-2fc5-4c62-a280-6cfb1450e566" />
